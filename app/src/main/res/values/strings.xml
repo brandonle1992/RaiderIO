@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RaiderIO</string>
+    <string name="name_view">Name :</string>
+    <string name="realm_view">Realm :</string>
+    <string name="region_view">Region :</string>
+    <string name="name_hint">Enter a Character Name</string>
+    <string name="realm_hint">Select a realm</string>
+    <string name="region_hint">Select a region</string>
+    <string name="text_placeholder">Text Placeholder</string>
+    <string name="image_placeholder">Image Holder</string>
+</resources>
